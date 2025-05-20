@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(47, 255, 116);
+    text-align: center;
+  }
+  p{
+    font-size:20px;
+    text-align:justify;
+  }
+  li{margin-bottom: 2px;}
+
+    img {
+      border-radius: 20px; 
+      width: 200px; 
+        height: 150px;
+    }
+    table {
+      width: 10%;
+        border-collapse: collapse;
+      }
+      th, td {
+        border: 1px solid black; 
+        padding: 8px; 
+      }
+      
+      tr:nth-child(even) { 
+        background-color: aquamarine
+      }
+   a:hover{
+    color: blueviolet;
+   }
